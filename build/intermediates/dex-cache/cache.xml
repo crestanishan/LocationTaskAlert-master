@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nishan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_710781118a6d9ec96f815e24913417f9e4c31414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nishan/.android/build-cache/358d880257a8396d2e7e143b214d232448d9b200/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29f9e9474a2592792cd92fdb71f7cd9764f8658b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_706e1efd5cf5d686a097f64746817bf076a25842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nishan/.android/build-cache/4d5dccec8911ee5fc7a07592a48fd8aa42941940/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f56d73550a8aad099eff0444efa96600ccacab79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nishan/.android/build-cache/4bb1b942ca7c4c321b41cbcb19d46090fa9b8030/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_2a9e5b73866143b1f5ac0ff1a3317b52857e31ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nishan/.android/build-cache/4bb1b942ca7c4c321b41cbcb19d46090fa9b8030/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7aaa61ef2c9237a2b9b1473dd98a89d237808816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d8170a6e26ab8f670d170d0606867f211e868ab">
+        <dex dex="/home/nishan/Downloads/LocationTaskAlert-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_61f515cffbe531d5baaca1a18bff11a933164c67/classes.dex" />
+    </item>
+
+</items>
