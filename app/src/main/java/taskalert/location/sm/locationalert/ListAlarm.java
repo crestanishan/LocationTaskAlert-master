@@ -39,6 +39,7 @@ public class ListAlarm extends Activity {
     protected void onDestroy() {
         super.onDestroy();
         myDB.close();
+        //nishan mula ko sag
     }
 
     public void populateListViewFromDb() {
